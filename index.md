@@ -15,5 +15,3 @@ Strong gravity. Neutron stars. Gravitational waves.
 [Google Scholar](https://scholar.google.com/citations?user=aS1a3oEAAAAJ&hl=en&oi=ao)
 
 [ADS](https://ui.adsabs.harvard.edu/public-libraries/HyI9Hdj0T-ODCV2k0gt4tA)
-
-[GWPAC Page](https://physics.fullerton.edu/gwpac/people/item/phil-landry)

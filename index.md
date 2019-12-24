@@ -12,8 +12,4 @@ Strong gravity. Neutron stars. Gravitational waves.
 
 ### More
 
-[Google Scholar](https://scholar.google.com/citations?user=aS1a3oEAAAAJ&hl=en&oi=ao)
-
-[ADS](https://ui.adsabs.harvard.edu/public-libraries/HyI9Hdj0T-ODCV2k0gt4tA)
-
-[Inspire](http://inspirehep.net/author/profile/P.Landry.1)
+[Google Scholar](https://scholar.google.com/citations?user=aS1a3oEAAAAJ&hl=en&oi=ao). [ADS](https://ui.adsabs.harvard.edu/public-libraries/HyI9Hdj0T-ODCV2k0gt4tA). [Inspire](http://inspirehep.net/author/profile/P.Landry.1)

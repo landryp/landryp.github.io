@@ -1,7 +1,9 @@
-### Research Interests
+### [Research Interests](https://scholar.google.com/citations?user=aS1a3oEAAAAJ&hl=en&oi=ao)
 
-Strong gravity \t Neutron stars \t Gravitational waves
+Strong gravity. Neutron stars. Gravitational waves.
 
 ### CV
 
-Postdoctoral Research Associate @ GWPAC (CSUF)
+2019-Present. Postdoctoral Research Associate @ [GWPAC](https://physics.fullerton.edu/gwpac/) (Cal State Fullerton)
+2017-2019. Postdoctoral Fellow @ [Enrico Fermi Institute](https://efi.uchicago.edu/) (UChicago)
+2012-2017. PhD Student @ [U of Guelph](https://www.physics.uoguelph.ca/)

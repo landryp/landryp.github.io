@@ -1,4 +1,4 @@
-### Research Interests
+### Research
 
 Strong gravity. Neutron stars. Gravitational waves.
 

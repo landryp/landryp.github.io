@@ -1,4 +1,5 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+remote_theme: murraco/jekyll-theme-minimal-resume
 
 title: Philippe Landry
 description: Gravitational Astrophysics

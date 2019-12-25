@@ -1,5 +1,5 @@
-#theme: jekyll-theme-cayman
-remote_theme: nrandecker/particle
+theme: jekyll-theme-cayman
+#remote_theme: nrandecker/particle
 
 title: Philippe Landry
 description: Gravitational Astrophysics

@@ -30,7 +30,6 @@ body {
 .content-section-heading h3 {
   font-size: 1rem;
   text-transform: uppercase;
-  color: #ecb807;
 }
 
 h1,
@@ -40,6 +39,10 @@ h4,
 h5,
 h6 {
   font-weight: 700;
+}
+
+h3 {
+  color: #ecb807;
 }
 
 .text-faded {

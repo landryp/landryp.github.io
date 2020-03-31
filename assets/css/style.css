@@ -12,6 +12,7 @@ html {
 
 body {
   font-family: 'Source Sans Pro';
+  color: white;
 }
 
 .btn-xl {
@@ -30,7 +31,6 @@ body {
 .content-section-heading h3 {
   font-size: 1rem;
   text-transform: uppercase;
-  color: #66ff66 !important;
 }
 
 h1,
@@ -105,7 +105,6 @@ h6 {
   font-size: 4rem;
   margin: 0;
   padding: 0;
-  color: #66ff66 !important;
 }
 
 @media (min-width: 992px) {
@@ -114,7 +113,6 @@ h6 {
   }
   .masthead h1 {
     font-size: 5.5rem;
-    color: #66ff66 !important;
   }
 }
 

@@ -30,6 +30,7 @@ body {
 .content-section-heading h3 {
   font-size: 1rem;
   text-transform: uppercase;
+  color: #ecb807;
 }
 
 h1,
@@ -104,6 +105,7 @@ h6 {
   font-size: 4rem;
   margin: 0;
   padding: 0;
+  color: #ecb807;
 }
 
 @media (min-width: 992px) {

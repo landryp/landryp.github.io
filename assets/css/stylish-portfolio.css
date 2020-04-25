@@ -109,7 +109,7 @@ h3 {
   margin: 0;
   padding: 0;
   color: #ecb807;
-  text-shadow: 1px 0 0;
+  text-shadow: 5px 0 0;
 }
 
 @media (min-width: 992px) {
@@ -118,6 +118,7 @@ h3 {
   }
   .masthead h1 {
     font-size: 5.5rem;
+    color: #ecb807;
   }
 }
 

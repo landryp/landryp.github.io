@@ -118,10 +118,10 @@ h3 {
   .masthead h1 {
     font-size: 5.5rem;
     color: #ecb807;
-    text-shadow: 1px 1px 0 #FFFFFF;
+    text-shadow: 0.5px 0.5px 0 #FFFFFF;
   }
   .masthead h3 {
-    text-shadow: 1px 1px 0 #FFFFFF;
+    text-shadow: 0.1px 0.1px 0 #FFFFFF;
   }
 }
 

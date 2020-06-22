@@ -386,6 +386,6 @@ a:hover, a:focus, a:active {
 }
 
 .btn-alpha {
-  background: rgba(29, 128, 159, 0.5);
+  background: rgba(29, 128, 159, 0.2);
   pointer-events: none;
 }

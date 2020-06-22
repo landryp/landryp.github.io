@@ -386,5 +386,5 @@ a:hover, a:focus, a:active {
 }
 
 .btn-alpha {
-  opacity: 0.1;
+  background: rgba(52, 58, 64, 0.5);
 }

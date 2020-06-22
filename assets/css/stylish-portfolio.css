@@ -102,6 +102,8 @@ h3 {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
+  -webkit-filter: blur(10px);
+  filter: blur(10px);
 }
 
 .masthead h1 {

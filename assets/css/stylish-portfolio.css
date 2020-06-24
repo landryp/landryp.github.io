@@ -388,6 +388,4 @@ a:hover, a:focus, a:active {
 .btn-alpha {
   background: rgba(52, 58, 64, 0.5);
   pointer-events: none;
-  word-wrap: break-word;
-  max-width: 100%;
 }

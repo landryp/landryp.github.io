@@ -389,4 +389,5 @@ a:hover, a:focus, a:active {
   background: rgba(52, 58, 64, 0.5);
   pointer-events: none;
   word-wrap: break-word;
+  max-width: 100%;
 }
